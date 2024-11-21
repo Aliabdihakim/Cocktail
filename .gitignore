@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Dist files (for build outputs)
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Generated files
+coverage/
+*.tgz
+*.lock
+
+# Ignore package-lock.json
+package-lock.json

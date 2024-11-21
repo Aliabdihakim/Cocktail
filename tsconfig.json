@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./src",
+    "target": "ES6",
+    "module": "ESNext",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.ts"]
+}
